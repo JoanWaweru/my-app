@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Learning React by building an app for the Microsoft P2P Mentorship
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
